@@ -1,0 +1,147 @@
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/bin/Debug/net6.0/raylib
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/bin/Debug/net6.0/raylib.deps.json
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/bin/Debug/net6.0/raylib.runtimeconfig.json
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/bin/Debug/net6.0/raylib.dll
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/bin/Debug/net6.0/raylib.pdb
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/obj/Debug/net6.0/raylib.csproj.AssemblyReference.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/obj/Debug/net6.0/raylib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/obj/Debug/net6.0/raylib.AssemblyInfoInputs.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/obj/Debug/net6.0/raylib.AssemblyInfo.cs
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/obj/Debug/net6.0/raylib.csproj.CoreCompileInputs.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/obj/Debug/net6.0/raylib.dll
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/obj/Debug/net6.0/refint/raylib.dll
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/obj/Debug/net6.0/raylib.pdb
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/obj/Debug/net6.0/raylib.genruntimeconfig.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/obj/Debug/net6.0/ref/raylib.dll
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/bin/Debug/net6.0/Raylib-cs.dll
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/bin/Debug/net6.0/runtimes/linux-x64/native/libraylib.so
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib.dylib
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/bin/Debug/net6.0/runtimes/win-x64/native/raylib.dll
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/bin/Debug/net6.0/runtimes/win-x86/native/raylib.dll
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/raylib/obj/Debug/net6.0/raylib.csproj.CopyComplete
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\bin\Debug\net6.0\raylib.exe
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\bin\Debug\net6.0\raylib.deps.json
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\bin\Debug\net6.0\raylib.runtimeconfig.json
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\bin\Debug\net6.0\raylib.dll
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\bin\Debug\net6.0\raylib.pdb
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\obj\Debug\net6.0\raylib.csproj.AssemblyReference.cache
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\obj\Debug\net6.0\raylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\obj\Debug\net6.0\raylib.AssemblyInfoInputs.cache
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\obj\Debug\net6.0\raylib.AssemblyInfo.cs
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\obj\Debug\net6.0\raylib.csproj.CoreCompileInputs.cache
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\obj\Debug\net6.0\raylib.csproj.CopyComplete
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\obj\Debug\net6.0\raylib.dll
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\obj\Debug\net6.0\refint\raylib.dll
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\obj\Debug\net6.0\raylib.pdb
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\obj\Debug\net6.0\raylib.genruntimeconfig.cache
+C:\Users\lmoseley\OneDrive - BYU-Idaho\Current Semester\CSE 210\raylib\obj\Debug\net6.0\ref\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib\bin\Debug\net6.0\raylib.exe
+C:\Users\lmoseley\git\cse-210-examples\raylib\bin\Debug\net6.0\raylib.deps.json
+C:\Users\lmoseley\git\cse-210-examples\raylib\bin\Debug\net6.0\raylib.runtimeconfig.json
+C:\Users\lmoseley\git\cse-210-examples\raylib\bin\Debug\net6.0\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib\bin\Debug\net6.0\raylib.pdb
+C:\Users\lmoseley\git\cse-210-examples\raylib\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\lmoseley\git\cse-210-examples\raylib\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\lmoseley\git\cse-210-examples\raylib\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib\obj\Debug\net6.0\raylib.csproj.AssemblyReference.cache
+C:\Users\lmoseley\git\cse-210-examples\raylib\obj\Debug\net6.0\raylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoseley\git\cse-210-examples\raylib\obj\Debug\net6.0\raylib.AssemblyInfoInputs.cache
+C:\Users\lmoseley\git\cse-210-examples\raylib\obj\Debug\net6.0\raylib.AssemblyInfo.cs
+C:\Users\lmoseley\git\cse-210-examples\raylib\obj\Debug\net6.0\raylib.csproj.CoreCompileInputs.cache
+C:\Users\lmoseley\git\cse-210-examples\raylib\obj\Debug\net6.0\raylib.csproj.CopyComplete
+C:\Users\lmoseley\git\cse-210-examples\raylib\obj\Debug\net6.0\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib\obj\Debug\net6.0\refint\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib\obj\Debug\net6.0\raylib.pdb
+C:\Users\lmoseley\git\cse-210-examples\raylib\obj\Debug\net6.0\raylib.genruntimeconfig.cache
+C:\Users\lmoseley\git\cse-210-examples\raylib\obj\Debug\net6.0\ref\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\bin\Debug\net6.0\raylib.exe
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\bin\Debug\net6.0\raylib.deps.json
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\bin\Debug\net6.0\raylib.runtimeconfig.json
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\bin\Debug\net6.0\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\bin\Debug\net6.0\raylib.pdb
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.AssemblyReference.cache
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\obj\Debug\net6.0\raylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\obj\Debug\net6.0\raylib.AssemblyInfoInputs.cache
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\obj\Debug\net6.0\raylib.AssemblyInfo.cs
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.CoreCompileInputs.cache
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.CopyComplete
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\obj\Debug\net6.0\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\obj\Debug\net6.0\refint\raylib.dll
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\obj\Debug\net6.0\raylib.pdb
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\obj\Debug\net6.0\raylib.genruntimeconfig.cache
+C:\Users\lmoseley\git\cse-210-examples\raylib-hello-world\obj\Debug\net6.0\ref\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\bin\Debug\net6.0\raylib.exe
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\bin\Debug\net6.0\raylib.deps.json
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\bin\Debug\net6.0\raylib.runtimeconfig.json
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\bin\Debug\net6.0\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\bin\Debug\net6.0\raylib.pdb
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.AssemblyReference.cache
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\obj\Debug\net6.0\raylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\obj\Debug\net6.0\raylib.AssemblyInfoInputs.cache
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\obj\Debug\net6.0\raylib.AssemblyInfo.cs
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.CoreCompileInputs.cache
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.CopyComplete
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\obj\Debug\net6.0\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\obj\Debug\net6.0\refint\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\obj\Debug\net6.0\raylib.pdb
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\obj\Debug\net6.0\raylib.genruntimeconfig.cache
+C:\Users\Brack\Downloads\raylib-hello-world\raylib-hello-world\obj\Debug\net6.0\ref\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\bin\Debug\net6.0\raylib.exe
+C:\Users\Brack\Downloads\raylib-hello-world\bin\Debug\net6.0\raylib.deps.json
+C:\Users\Brack\Downloads\raylib-hello-world\bin\Debug\net6.0\raylib.runtimeconfig.json
+C:\Users\Brack\Downloads\raylib-hello-world\bin\Debug\net6.0\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\bin\Debug\net6.0\raylib.pdb
+C:\Users\Brack\Downloads\raylib-hello-world\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\Brack\Downloads\raylib-hello-world\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\Brack\Downloads\raylib-hello-world\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\Brack\Downloads\raylib-hello-world\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.AssemblyReference.cache
+C:\Users\Brack\Downloads\raylib-hello-world\obj\Debug\net6.0\raylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brack\Downloads\raylib-hello-world\obj\Debug\net6.0\raylib.AssemblyInfoInputs.cache
+C:\Users\Brack\Downloads\raylib-hello-world\obj\Debug\net6.0\raylib.AssemblyInfo.cs
+C:\Users\Brack\Downloads\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.CoreCompileInputs.cache
+C:\Users\Brack\Downloads\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.CopyComplete
+C:\Users\Brack\Downloads\raylib-hello-world\obj\Debug\net6.0\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\obj\Debug\net6.0\refint\raylib.dll
+C:\Users\Brack\Downloads\raylib-hello-world\obj\Debug\net6.0\raylib.pdb
+C:\Users\Brack\Downloads\raylib-hello-world\obj\Debug\net6.0\raylib.genruntimeconfig.cache
+C:\Users\Brack\Downloads\raylib-hello-world\obj\Debug\net6.0\ref\raylib.dll
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\bin\Debug\net6.0\raylib.exe
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\bin\Debug\net6.0\raylib.deps.json
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\bin\Debug\net6.0\raylib.runtimeconfig.json
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\bin\Debug\net6.0\raylib.dll
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\bin\Debug\net6.0\raylib.pdb
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.AssemblyReference.cache
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\obj\Debug\net6.0\raylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\obj\Debug\net6.0\raylib.AssemblyInfoInputs.cache
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\obj\Debug\net6.0\raylib.AssemblyInfo.cs
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.CoreCompileInputs.cache
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\obj\Debug\net6.0\raylib.csproj.CopyComplete
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\obj\Debug\net6.0\raylib.dll
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\obj\Debug\net6.0\refint\raylib.dll
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\obj\Debug\net6.0\raylib.pdb
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\obj\Debug\net6.0\raylib.genruntimeconfig.cache
+C:\Users\Brack\Downloads\code\C#\raylib-hello-world\obj\Debug\net6.0\ref\raylib.dll

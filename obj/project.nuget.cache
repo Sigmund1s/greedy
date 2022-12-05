@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pg0U2ugM5zuQBi7whcpAOZcHzQ+SstJL5CnHjfAfdXmVGarjdCg/8DAXB301XzeZLLCUp1u1LVAddtka2Z26Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brack\\Downloads\\code\\C#\\raylib-hello-world\\raylib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brack\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\Brack\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
